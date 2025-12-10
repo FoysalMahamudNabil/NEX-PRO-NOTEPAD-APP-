@@ -15,6 +15,11 @@
     "powers": ["Immortality", "Heat Immunity"]
   },
   {
+    "name": "Eternal Flame",
+    "age": "infinity",
+    "powers": ["Immortality", "Fire"]
+  },
+  {
     "firstName": "Sammy",
     "lastName": "Shark",
     "location": "Ocean",
