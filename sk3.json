@@ -1,0 +1,11 @@
+{
+    "company": {
+        "type": "string"
+    },
+    "company_role": {
+        "type": "string"
+    },
+    "phone": {
+        "type": "string"
+    }
+}
